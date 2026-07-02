@@ -39,35 +39,6 @@ This project was built to strengthen my understanding of:
 - Managing conditional rendering based on animation completion state (`showContent`)
 - Structuring a visually complex landing page using Tailwind's utility classes (absolute positioning, `translate`, `scale`, gradients)
 
-## 📂 Project Structure
-
-```
-src/
-├── App.jsx          # Main component — intro animation + landing page
-├── assets/
-│   ├── bg.png
-│   ├── sky.png
-│   ├── boy.png
-│   ├── ps5.png
-│   └── pose.png
-└── ...
-```
-
-## 🏃 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate into the project
-cd your-repo-name
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-```
 
 ## 🔮 Future Improvements
 
